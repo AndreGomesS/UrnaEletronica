@@ -12,9 +12,9 @@ public class urna {
         System.out.println("ss");
     }
 
-//Atributos 
 
-//Construtor 
 
-//Mêtodos
+ 
+
+
 }
