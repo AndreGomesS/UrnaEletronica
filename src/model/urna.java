@@ -9,10 +9,11 @@ package model;
 public class urna {
     
     public urna() {
+        System.out.println("ss");
     }
 
 //Atributos 
-ss
+
 //Construtor 
 
 //Mêtodos
