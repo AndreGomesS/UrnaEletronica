@@ -6,9 +6,9 @@ package model;
  * @author agome
  */
 
-public class urna {
+public class Urna {
     
-    public urna() {
+    public Urna() {
         System.out.println("ss");
     }
 

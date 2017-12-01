@@ -1,5 +1,5 @@
 
-package urnaeletronica;
+package view;
 
 /**
  *
