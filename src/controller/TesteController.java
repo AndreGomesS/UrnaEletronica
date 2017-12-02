@@ -37,15 +37,15 @@ public class TesteController {
         System.out.println("Nome criptografado: " + nomeCriptografado);
         
         // O "" + é para transformar o int (idade) em String:
-        String idadeCritografada = CriptografiaSimples.Criptografar("" + teste.getIdade(), minhaSenha); 
-        System.out.println("Idade criptografada: " + idadeCritografada);
+        String idadeCriptografada = CriptografiaSimples.Criptografar("" + teste.getIdade(), minhaSenha); 
+        System.out.println("Idade criptografada: " + idadeCriptografada);
         
         // Descriptografa:
         String nomeDescriptografado = CriptografiaSimples.Descriptografar(nomeCriptografado, minhaSenha);
         System.out.println("Nome descriptografado: " + nomeDescriptografado);
         
         // O "" + é para transformar o int (idade) em String:
-        String idadeDescritografada = CriptografiaSimples.Descriptografar(idadeCritografada, minhaSenha); 
+        String idadeDescritografada = CriptografiaSimples.Descriptografar(idadeCriptografada, minhaSenha); 
         System.out.println("Idade descriptografada: " + idadeDescritografada);
         
         /*
