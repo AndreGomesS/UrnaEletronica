@@ -34,11 +34,7 @@ public class TesteView {
         System.out.println(
             "Notifica View: " +
             TesteController.criarTeste(dadosView)
-        );
-        
-        // Simular a escrita:
-       
-        
+        );        
     }
     
 }
