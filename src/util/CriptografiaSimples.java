@@ -3,6 +3,7 @@ package util;
 /**
  *
  * @author Elias
+ * Thanks https://drive.google.com/drive/folders/0ByW8n089ZISVeGlDRDItWERtNGc
  */
 public class CriptografiaSimples {
     
